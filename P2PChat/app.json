@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "P2PChat",
+    "slug": "P2PChat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "P2PChat"
+}
