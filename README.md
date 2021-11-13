@@ -1,14 +1,13 @@
 # CodeTheChange
 
+```bash
+cd P2PChat
+```
 to start type:
 ```bash
 expo start
 ```
-in terminal. Or:
-```bash
-cd P2PApp
-```
-and then one of:
+in terminal. Or then one of:
 ```bash
 yarn android
 yarn ios
