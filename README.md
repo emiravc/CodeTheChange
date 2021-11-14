@@ -1,25 +1,22 @@
 # CodeTheChange
-This readme belongs to Hackathon CodeTheChange 2021, we have implemented a telegram bot that gives you Mental Health Recommendations.
-```bash
-cd P2PChat
-```
-to start type:
-```bash
-expo start
-```
-in terminal. Or then one of:
-```bash
-yarn android
-yarn ios
-yarn web
-```
+This readme belongs to Hackathon CodeTheChange 2021, we have implemented a telegram bot that gives you Mental Health Recommendations. This project is under construction at the moment.
 
-## Installing NPM and Expo
+The program will be ran through `__main__.py`. Make sure to do the following commands before running our files:
 
-This requires npm and expo-cli. To get that [install node JS and npm](https://nodejs.org/en/download/)
-and type:
-```bash
-npm install -g expo-cli
+## Installing Pip and Dependecies
+```
+In order to install pip : 
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
+
+python get-pip.py
+
+pip help //To check installation
+```
+Few dependecies will needed as well therefore run the following commands:
+```
+pip install python-decouple
+
 ```
 
 2021 Hackathon Code The Change 
