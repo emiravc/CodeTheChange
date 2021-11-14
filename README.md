@@ -5,8 +5,6 @@ The program will be ran through `__main__.py`. Make sure to do the following com
 
 ## Installing Pip and Dependecies
 ```
-In order to install pip : 
-
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
 
 python get-pip.py
