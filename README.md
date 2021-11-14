@@ -1,6 +1,8 @@
 # P2P Zen Bot
 This readme belongs to Hackathon CodeTheChange 2021, we have implemented a telegram bot that gives you Mental Health Recommendations. This project is under construction at the moment.
 
+In order for our bot to work! You will have to work with our database directory in order to run this program [P2P Zen](https://github.com/emiravc/P2P-Zen-Bot).
+
 The program will be ran through `__main__.py`. Make sure to do the following commands before running our files:
 
 ## Installing Pip and Dependecies
