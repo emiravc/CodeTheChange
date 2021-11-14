@@ -1,0 +1,9 @@
+[pyrogram]
+API_ID = ********
+API_HASH =  ******** 
+BOT_TOKEN = ********:********
+
+[prodil]
+API_BASE_URL = ********
+AUTH_EMAIL = admin@admin.com
+AUTH_PASS = 1
