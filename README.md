@@ -5,11 +5,11 @@ The program will be ran through `__main__.py`. Make sure to do the following com
 
 ## Installing Pip and Dependecies
 ```
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py // Pip installation 
 
 python get-pip.py
 
-pip help //To check installation
+pip help // To check installation
 ```
 Few dependecies will needed as well therefore run the following commands:
 ```
