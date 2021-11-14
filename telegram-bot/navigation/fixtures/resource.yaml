@@ -1,0 +1,21 @@
+- model: record.resource
+  pk: 1
+  fields:
+    name: LOCAL CALGARY RESOURCES CRISES AND MENTAL HEALTH
+    slug: local_calgary_resources_crises_and_mental_health
+    note: There aer a number of localresources in Calgary for crisis, mental health and addiction support that provide education, assessment, medical attention and other useful resources for Calgarians in need.
+    rating: movie rating
+    enabled: true
+    local: VID
+    level: PRO
+    content: LN
+    file_name: " "
+    file_id: " "
+    url: "https://www.youtube.com/watch?v=tZmsEs0RNmU"
+    image: not-found.jpg
+    created: 2021-10-19 19:41:56.962600+00:00
+    updated: 2021-10-19 19:41:56.962628+00:00
+    author:
+      - 11
+    category:
+      - 1

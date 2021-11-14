@@ -2,7 +2,7 @@ import logging
 
 from decouple import config
 
-from prodil.BotConfig import ProDil
+from BotConfig import ProDil
 
 # RUNTIME DEBUG LOG_LEVEL INFO
 logging.basicConfig(

@@ -17,8 +17,8 @@ class Local:
 class Content:
     QUESTION = "What type of resource you are looking for?"
     ANSWER = {
-        "CS": "Counseling Session",
-        "OL": "Online Self Help",
+        "DC": "Counseling Session",
+        "LN": "Online Self Help",
     }
 
 
