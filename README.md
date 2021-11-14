@@ -1,5 +1,4 @@
-# CodeTheChange
-
+# P2P Zen Bot
 This readme belongs to Hackathon CodeTheChange 2021, we have implemented a telegram bot that gives you Mental Health Recommendations. This project is under construction at the moment.
 
 The program will be ran through `__main__.py`. Make sure to do the following commands before running our files:
