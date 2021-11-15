@@ -31,6 +31,6 @@ Use the command `setx`to add the path of pip to Scripts file:`setx PATH "%PATH%;
 
 In order to use this bot information inside `prodil.ini.sample` has to be filled and name of this file needs to be changed to `prodil.ini`.
 
-After neccessary dependecies are connected with `navigation`, this bot can be executed order to run with `python -m prodil`
+After neccessary dependecies are connected with [P2P Zen Database](https://github.com/emiravc/P2P-Zen-Bot), this bot can be executed order to run with `python -m prodil`
 
 # 2021 Hackathon Code The Change TEJBarbarians
