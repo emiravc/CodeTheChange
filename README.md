@@ -29,8 +29,8 @@ This is because pip is installed to `C:\Python34\Scripts\pip`
 
 Use the command `setx`to add the path of pip to Scripts file:`setx PATH "%PATH%;C:\Python34\Scripts" `
 
-In order to use this bot information inside `prodil.ini.sample` has to be filled and name of this file needs to be changed to `prodil.ini`.
+In order to use this bot information inside `prodil.ini.sample` has to be filled out and name of this file needs to be changed to `prodil.ini`.
 
-After neccessary files are filled up, and django database is run  [P2P Zen Database](https://github.com/emiravc/P2P-Zen-Bot), this bot can be executed with `python -m prodil` in terminal.
+After neccessary files are filled out, and django database is run [P2P Zen Database](https://github.com/emiravc/P2P-Zen-Bot), this bot can be executed with `python -m prodil` in terminal.
 
 # 2021 Hackathon Code The Change TEJBarbarians
